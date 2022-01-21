@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here is my first Github repository. Let's get started with Github.
 
-Read me is Updated manually from Github
+Read me is Updated manually from Github. This file is modified locally.
